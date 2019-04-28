@@ -1,4 +1,4 @@
-package com.dmagdaleno.solid.s
+package com.dmagdaleno.solid.srp
 
 interface SalaryRule {
 
